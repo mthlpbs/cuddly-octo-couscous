@@ -1,4 +1,4 @@
-class a {
+class slop {
 
 	public static void main(String... args) {
 	  for (int x=0, cnt= 5; x<5; x++, cnt --) {
